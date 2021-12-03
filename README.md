@@ -33,7 +33,7 @@ Simple program to track expenses
 - Shows history of expenses and income
 - Persists through Local Storage
 
-#### Front end deployed to `GitHub Pages`
+### Front end deployed to `GitHub Pages`
 
 > [Expense Tracker](https://sjeremich23.github.io/Expense-Tracker/)
 
