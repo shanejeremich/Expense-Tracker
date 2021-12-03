@@ -31,6 +31,7 @@ Simple program to track expenses
 - HTML / CSS / Javascript
 - Add expenses/income and it will automatically calculate the total
 - Shows history of expenses and income
+- Persists through Local Storage
 
 #### Front end deployed to `GitHub Pages`
 
