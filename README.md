@@ -40,3 +40,5 @@ Simple program to track expenses
 # Installation Instructions
 
 - Fork and clone the repo to install it as your own remote.
+- Set up your project/file architecture however you want
+- Start coding!
