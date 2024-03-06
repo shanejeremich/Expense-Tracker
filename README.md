@@ -12,7 +12,7 @@ Simple program to track expenses
 
 ## Contributors
 
-|                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
+|                                        [Shane Jeremich](https://github.com/shanejeremich)                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
 |                         [<img src="images/shane.png" width = "200" />](https://github.com/shanejeremich)                         |
 |                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shanejeremich)                    |
