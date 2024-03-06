@@ -1,6 +1,6 @@
 # Expense Tracker
 
-You can find the deployed project at [Expense Tracker](https://sjeremich23.github.io/Expense-Tracker/)
+You can find the deployed project at [Expense Tracker](https://shanejeremich.github.io/Expense-Tracker/)
 
 ## Overview
 
@@ -14,8 +14,8 @@ Simple program to track expenses
 
 |                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
-|                         [<img src="images/shane.png" width = "200" />](https://github.com/sjeremich23)                         |
-|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sjeremich23)                    |
+|                         [<img src="images/shane.png" width = "200" />](https://github.com/shanejeremich)                         |
+|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shanejeremich)                    |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/shanejeremich/) |
 
 <br>
@@ -35,7 +35,7 @@ Simple program to track expenses
 
 ### Front end deployed to `GitHub Pages`
 
-> [Expense Tracker](https://sjeremich23.github.io/Expense-Tracker/)
+> [Expense Tracker](https://shanejeremich.github.io/Expense-Tracker/)
 
 # Installation Instructions
 
